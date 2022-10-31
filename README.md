@@ -20,7 +20,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 
 ## Learning resources for DevOps Engineers (mostly free)
 
-### 1. GIT
+### 1. GIT - 90%
 
 - [Pro Git Book](https://git-scm.com/book/en/v2) <sup>FREE</sup>
 - [Learn Git by Atlassian](https://www.atlassian.com/git) <sup>FREE</sup>
@@ -30,7 +30,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Git Immersion](https://gitimmersion.com/index.html) <sup>FREE</sup>
 - [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) <sup>FREE</sup>
 
-### 2. Learn programming language
+### 2. Learn programming language - Python 90% / Javascript In progress
 
 - [Automate the Boring Stuff with Python book](https://automatetheboringstuff.com/) <sup>FREE</sup>
 - [Python Crash Course](https://ehmatthes.github.io/pcc/) <sup>FREE</sup>
@@ -39,7 +39,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Eloquent JavaScript, 3rd edition](https://eloquentjavascript.net/), Marjin Haverbeke <sup>FREE book</sup>
 - [Go by Example](https://gobyexample.com/) <sup>FREE</sup>
 
-### 3. Learn Linux & Scripting
+### 3. Learn Linux & Scripting - 80% / Need to learn more PS
 
 - [Operating System - Overview](https://www.tutorialspoint.com/operating_system/os_overview.htm) <sup>FREE</sup>
 - [Shell Scripting Tutorial](https://www.shellscript.sh/) <sup>FREE</sup>
@@ -48,7 +48,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Ultimate Guide: Getting Started With Ubuntu](https://itsfoss.com/getting-started-with-ubuntu/) <sup>FREE</sup>
 - [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/) <sup>FREE</sup>
 
-### 4. Learn Networking & Security
+### 4. Learn Networking & Security - 95%
 
 - [OSI Model Explained](https://www.youtube.com/watch?v=dV8mjZd1OtU) <sup>FREE</sup>
 - [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) <sup>book</sup>
